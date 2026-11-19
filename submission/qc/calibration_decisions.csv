@@ -1,1 +1,4 @@
 case_id,image,nguon,van_de,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline
+CAL-01,img_002,loi_may,"YOLO26 gọi tuk-tuk xanh là truck","Gán three_wheeler theo loại xe trong ảnh, không theo nhãn dự đoán của YOLO26","mục 2",v1.1
+CAL-02,img_013,cau_hoi_mo,"Mask SAM phủ một phần hành khách cùng xe","Mask xe không gồm người; thêm click âm trên người khi mask xe lấn sang","mục 4.2",v1.1
+CAL-03,img_009,can_review,"Hàng hóa che khuất phần lớn xe máy","Chỉ mask phần xe nhìn thấy; ghi can_review nếu không phân định được ranh giới với hàng hóa","mục 4.2",v1.1

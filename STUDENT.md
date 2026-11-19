@@ -1,13 +1,13 @@
 # Thông tin học viên
 
-- Họ và tên: <<>>
-- MSHV: <<>>
-- Lớp (L2 / L3 / khác): <<>>
-- Tài khoản GitHub: <<>>
-- Repo bài nộp (URL): <<>>
-- Commit chốt bài (hash): <<>>
-- Máy: <<hệ điều hành, GPU (CUDA / MPS / không có)>>
-- CVAT (Docker): <<phiên bản, ví dụ v2.81.0>>
+- Họ và tên: Vũ Thị Thu Huyền
+- MSHV: 2A202603115
+- Lớp (L2 / L3 / khác): L2
+- Tài khoản GitHub: thuhuyen126
+- Repo bài nộp (URL): https://github.com/thuhuyen126/K5-L23-Day08-VuThiThuHuyen-2A202603115-AI-Assisted-Labeling
+- Commit chốt bài (hash): điền sau khi chốt bài
+- Máy: Windows, CPU (xác nhận nếu đúng)
+- CVAT (Docker): điền phiên bản thực tế
 
 ## Kết quả tóm tắt (điền cuối bài; số lấy từ `submission/qc/*`, kèm mẫu số)
 
